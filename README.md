@@ -5,7 +5,7 @@ An example of File Upload feature implemented with
 
 -   Remix,
 -   Web Standard APIs,
--   McJackson APIs,
+-   @mjackson APIs,
 -   Nodejs APIs,
 -   S3 APIs,
 -   and a really cool client side lib: FilePond.
