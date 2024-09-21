@@ -40,7 +40,7 @@ I did a deep dive on how multipart-data works:
 -   start dev server, pnpm dev or the like
 -   open your browser on localhost:3000, now you have 2 avenues
     -   default: rich client js upload feature, with image preview, file size validation and stuff (FilePond based)
-    -   extra: HTML only feature for handling the uploads with plain HTML forms, you can se by disabling JS
+    -   extra: HTML only feature for handling the uploads with plain HTML forms, you can see it by disabling JS
 
 ## Tasty treat
 
