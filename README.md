@@ -29,9 +29,8 @@ This is an experiment I did while working on a private project, implementing a f
 
 I did a deep dive on how multipart-data works:
 
--   One of if not the first time I read with great joy one of those old fashion RFCs: [Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
--   Learn about [netcat](https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work#answer-26791188) and saw for real what a form spits out over the wire using the truly unix utility.
--
+-   One of, if not the first time I read with great joy one of those old fashion RFCs: [Returning Values from Forms: multipart/form-data](https://www.rfc-editor.org/rfc/rfc7578)
+-   Learn about [netcat](https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work#answer-26791188) and saw for real, what a form spits out over the wire using this truly awesome unix utility.
 
 ## How to run
 
